@@ -1,0 +1,10 @@
+Alguns comandos git:
+git init
+git add
+git commit
+git add (git add NomeArquivo ou git add * [todo diretório])
+git commit -m
+git commit -a
+git remote add origin LinkGitHub
+git push origin master
+git clone
