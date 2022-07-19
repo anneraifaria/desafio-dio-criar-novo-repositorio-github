@@ -2,9 +2,9 @@
  # Repositório criado para desafio de projeto Dio
  
  ## Links úteis:
- *[Sintaxe Basica Markdown] (https://www.markdownguide.org/getting-started/)
+ *[Sintaxe_Basica _Markdown](https://www.markdownguide.org/getting-started/)
  
- *[Sintaxe Basica Markdown] (https://git-scm.com/downloads)
+ *[Sintaxe_Basica_Markdown](https://git-scm.com/downloads)
  
  ### Observações:
  *Git Bash é o terminal git usado no Windows. 
